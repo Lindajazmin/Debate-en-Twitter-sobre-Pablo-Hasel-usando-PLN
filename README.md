@@ -1,5 +1,10 @@
 # Minería de Texto con data de Twitter
 
+Ponencia preparada por Linda Cabrera Orellana para el Women in Data Science Ecuador 2021 llevada a cabo el 22 de abril de 2021, organizada por la Sociedad Ecuatoriana de Estadística, iniciativa de la Universidad de Stanford.
+
+![image](https://github.com/user-attachments/assets/d6faa87b-4115-4c45-8b58-7cbbd0f50d00)
+
+
 ## Debate en Twitter sobre el encarcelamiento de PABLO HASÉL
 
 Esta es una introducción al procesamiento de lenguaje natural, conocido por sus siglas en inglés como NLP “Natural language processing”, aplicado al monitoreo de las redes sociales. Para el efecto, se analiza un tema que fue muy controversial en el mes de febrero del 2021, ahora ya suena menos, que es el Encarcelamiento del rapero español Pablo Hasél por injurias a la corona española y terrorismo. Este tema generó una gran cantidad de información en la red social Twitter, proporcionándonos mucho material para el análisis.
